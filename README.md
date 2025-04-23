@@ -1,6 +1,6 @@
 # Blackjack - Python - ItaJunior
 
-> Jogo de BlackJack em Python com persistência de dados e estatísticas, desenvolvido como entregável do curso Python ItaJunior 2024.
+> Jogo de BlackJack em Python com persistência de dados e estatísticas, desenvolvido como entregável do treinamento de Python da ITA Jr 2025.
 
 ---
 
